@@ -1,0 +1,30 @@
+Resumen de Cambios Realizados en el Sitio Web
+
+Este documento detalla las modificaciones de estilo y contenido aplicadas a la plantilla "Tessellate" de HTML5 UP.
+
+==================================
+1. Cambios en el archivo de estilos (assets/sass/main.scss)
+==================================
+
+1.1. Tipografía y Tamaño de Fuente:
+    - Se cambió la fuente principal de todo el sitio de 'Roboto' a 'Dancing Script' para un aspecto más caligráfico y personal.
+    - El tamaño de la fuente base se redujo de 17pt a 14pt para un texto más compacto.
+
+1.2. Paleta de Colores:
+    - Color de fondo: Se cambió de un gris claro (#F8F8F8) a un azul pálido "AliceBlue" (#f0f8ff).
+    - Color del texto: Se oscureció ligeramente de #888 a #555 para mejorar el contraste.
+    - Colores de enlaces: Ahora son azules (#007bff) y se oscurecen al pasar el ratón (#0056b3), en lugar de heredar el color del texto.
+    - Colores de botones: Los botones principales ahora usan el mismo esquema de color azul que los enlaces, cambiando de un gris oscuro (#3d3d3d) a azul (#007bff).
+
+1.3. Fondos de Sección (Degradados):
+    - Se actualizaron los degradados de las secciones `.style1`, `.style2` y `.style3` con paletas de colores más vibrantes y modernas:
+        - .style1: Cambió de tonos tierra a un degradado de azul cian a azul claro.
+        - .style2: Cambió de tonos grises/morados a un degradado de rosa a melocotón.
+        - .style3: Cambió de tonos verdes/azules oscuros a un degradado de verde claro a azul cielo.
+
+==================================
+2. Cambios en el archivo HTML (index.html)
+==================================
+
+2.1. Contenido del Encabezado:
+    - El título principal (<h1>) en la sección de cabecera (#header) se cambió de "Tessellate" a "Gonzalo Mansera".
